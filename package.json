@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/XanderXueMingJi/webpackCode/issues"
   },
-  "homepage": "https://github.com/XanderXueMingJi/webpackCode#readme"
+  "homepage": "https://github.com/XanderXueMingJi/webpackCode#readme",
+  "devDependencies": {
+    "css-loader": "^2.1.0",
+    "style-loader": "^0.23.1"
+  }
 }
